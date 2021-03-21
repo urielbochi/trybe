@@ -1,0 +1,41 @@
+html, body{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background: white;
+
+}
+
+
+.super-mario{
+  width: 400px;
+  position:absolute;
+}
+
+.goomba{
+  width: 350px;
+  position:absolute;
+  top:700px
+}
+
+.bowser{
+  position:absolute;
+  top: 350px;
+  right: 80px;
+}
+ .word{
+   position: absolute;
+   top: 470px;
+   left: 1000px;
+   z-index: 2;
+ }
+
+ 
+
+ .baloon{
+  top: 420px;
+  left: 940px;
+  position: absolute;
+  z-index: 1;
+
+ }
